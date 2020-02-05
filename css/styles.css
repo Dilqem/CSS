@@ -1,0 +1,30 @@
+body{margin: 0;  text-align: center; font-family: 'Cormorant Garamond', serif; font-size: 1rem;}
+/*.top_container{background-color:#b22222; }
+.middle_container{background-color: red; width: 100px; height: 100px; display: inline-block; position: relative; left: 200px;}
+.bottom_container{background-color: blue; width: 100px; height: 100px; display: inline-block; position: relative; }
+.alt_container{background-color: yellow; width: 100px; height: 100px; display: inline-block; position: relative; }
+div{right: 100px;}*/
+/*.parent{background-color: grey; width: 300px; height: 300px; position: absolute;}*/
+.middle-container{position: relative; top: 100px; }
+.bottom-container{ position: relative; top: 100px;}
+.alt_container{background-color: red; width: 100px; height: 100px;  position: absolute; left: 200px; top: 200px;}
+
+.prf{width: 25%;}
+.bottom_cloud{position: absolute; left: 200px;}
+.top_cloud{position: relative; left: 350px; top: 50px;}
+.top_container{ background-color: #EAF6F6;}
+.skill-row{width: 50%; margin: 100px auto; text-align: left; line-height: 2; }
+.skill-img{width: 25%; float: left; margin-right: 30px;}
+.job{font-size: 2.5rem; color: #66BFBF; font-weight: normal;}
+.first-hr{border-top: 6px dotted #EAF6F6; border-style: dotted none none none; width: 4%;}
+.second-hr{border-top: 6px dotted #EAF6F6; border-style: dotted none none none; width: 4%; margin: 100px auto;}
+.footer-link{margin-right: 50px; color: #11999E; text-decoration: none;}
+.a:hover{font: #ffb5b5;}
+.contact-me{margin-bottom: 100px;}
+.bottom-container{background-color: #66BFBF; padding: 50px 0;}
+.mid-p{width: 35%;  margin: auto;}
+.contact-message{width: 40%; margin: 0 auto 50px;}
+h1{font-family: 'Dancing Script', cursive; font-size: 5.625rem; color: #66BFBF; line-height: 1;}
+h3{color: #11999E;}
+a{color: #11999E;}
+p{color: #40514E;}
